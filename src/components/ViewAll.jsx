@@ -1,8 +1,10 @@
 import React from 'react'
+import Navbar from './Navbar'
 
 const ViewAll = () => {
     return (
         <div>
+            <Navbar/>
             <div className="container">
                 <div className="row">
                     <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
@@ -23,7 +25,7 @@ const ViewAll = () => {
                                         <div className="card-body">
                                             <h5 className="card-title">BOOKS</h5>
                                             <p className="card-text">240</p>
-                                            <a href="#" class="btn btn-primary">BU</a>
+                                            <a href="#" class="btn btn-primary">BUY</a>
                                         </div>
                                 </div>
                             </div>
@@ -33,7 +35,7 @@ const ViewAll = () => {
                                         <div className="card-body">
                                             <h5 className="card-title">BOOKS</h5>
                                             <p className="card-text">240</p>
-                                            <a href="#" class="btn btn-primary">BU</a>
+                                            <a href="#" class="btn btn-primary">BUY</a>
                                         </div>
                                 </div>
                             </div>
@@ -43,7 +45,7 @@ const ViewAll = () => {
                                         <div className="card-body">
                                             <h5 className="card-title">BOOKS</h5>
                                             <p className="card-text">240</p>
-                                            <a href="#" class="btn btn-primary">BU</a>
+                                            <a href="#" class="btn btn-primary">BUY</a>
                                         </div>
                                 </div>
                             </div>
@@ -53,7 +55,7 @@ const ViewAll = () => {
                                         <div className="card-body">
                                             <h5 className="card-title">BOOKS</h5>
                                             <p className="card-text">240</p>
-                                            <a href="#" class="btn btn-primary">BU</a>
+                                            <a href="#" class="btn btn-primary">BUY</a>
                                         </div>
                                 </div>
                             </div>
@@ -63,7 +65,7 @@ const ViewAll = () => {
                                         <div className="card-body">
                                             <h5 className="card-title">BOOKS</h5>
                                             <p className="card-text">240</p>
-                                            <a href="#" class="btn btn-primary">BU</a>
+                                            <a href="#" class="btn btn-primary">BUY</a>
                                         </div>
                                 </div>
                             </div>
@@ -73,7 +75,7 @@ const ViewAll = () => {
                                         <div className="card-body">
                                             <h5 className="card-title">BOOKS</h5>
                                             <p className="card-text">240</p>
-                                            <a href="#" class="btn btn-primary">BU</a>
+                                            <a href="#" class="btn btn-primary">BUY</a>
                                         </div>
                                 </div>
                             </div>
@@ -83,7 +85,7 @@ const ViewAll = () => {
                                         <div className="card-body">
                                             <h5 className="card-title">BOOKS</h5>
                                             <p className="card-text">240</p>
-                                            <a href="#" class="btn btn-primary">BU</a>
+                                            <a href="#" class="btn btn-primary">BUY</a>
                                         </div>
                                 </div>
                             </div>
@@ -93,7 +95,7 @@ const ViewAll = () => {
                                         <div className="card-body">
                                             <h5 className="card-title">BOOKS</h5>
                                             <p className="card-text">240</p>
-                                            <a href="#" class="btn btn-primary">BU</a>
+                                            <a href="#" class="btn btn-primary">BUY</a>
                                         </div>
                                 </div>
                             </div>
@@ -103,7 +105,7 @@ const ViewAll = () => {
                                         <div className="card-body">
                                             <h5 className="card-title">BOOKS</h5>
                                             <p className="card-text">240</p>
-                                            <a href="#" class="btn btn-primary">BU</a>
+                                            <a href="#" class="btn btn-primary">BUY</a>
                                         </div>
                                 </div>
                             </div>
